@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 45%;
+    height: 200px;
+}
+
+button {
+    align-self: flex-end;
+    cursor: pointer;
+}
